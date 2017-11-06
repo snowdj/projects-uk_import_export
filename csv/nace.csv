@@ -1,0 +1,186 @@
+code,description,parent, ordering,level
+TOT,TOTAL,X,0,0
+A,"Products of agriculture, forestry & fishing",TOT,999,1
+01,Products of agriculture,A,1000,2
+01.1,Non-perennial crops,01,1010,3
+01.2,Perennial crops,01,1020,3
+01.3,Planting material,01,1030,3
+01.4,Live animals & animal products,01,1040,3
+02,Forestry products,A,2000,2
+02.1,Trees & their seeds,02,2010,3
+02.2,Wood in the rough,02,2020,3
+02.3,Wild growing non-wood products,02,2030,3
+03,Fish & other fishing products; aquaculture prod,A,3000,2
+B,Mining & quarrying,TOT,4999,1
+05,Coal & lignite,B,5000,2
+05.1,Coal,05,5010,3
+05.2,Lignite,05,5020,3
+06,Crude petroleum & natural gas,B,6000,2
+06.1,Crude petroleum,06,6010,3
+06.2,Natural gas,06,6020,3
+07,Metal ores,B,7000,2
+07.1,Iron ores,07,7010,3
+07.2,Non-ferrous metal ores & concentrates,07,7020,3
+08,Other mining & quarrying products,B,8000,2
+08.1,"Unworked stone, gravel, sand, clays & kaolin",08,8010,3
+08.9,Mining & quarrying products n.e.c.,08,8090,3
+C,Manufactured products,TOT,9999,1
+10,Food products,C,10000,2
+10.1,Preserved meat & meat products,10,10010,3
+10.2,"Processed & preserved fish, crustaceans & molluscs",10,10020,3
+10.3,Processed & preserved fruit and vegetables,10,10030,3
+10.4,Vegetable & animal oils & fats,10,10040,3
+10.5,Dairy products,10,10050,3
+10.6,"Grain mill products, starches & starch products",10,10060,3
+10.7,Bakery & farinaceous products,10,10070,3
+10.8,Other food products,10,10080,3
+10.9,Prepared feeds for farm animals & pets,10,10090,3
+11,Beverages,C,11000,2
+11.0,Beverages,11,11010,3
+11.01,Distilled alcoholic beverages,11.0,11011,4
+11.02,Wine,11.0,11012,4
+11.03,Cider & other fruit wines,11.0,11013,4
+11.04,Other non-distilled fermented beverages,11.0,11014,4
+11.05,Beer,11.0,11015,4
+11.06,Malt,11.0,11016,4
+11.07,Soft drinks & bottled waters,11.0,11017,4
+12,Tobacco products,C,12000,2
+12.0,Tobacco products,12,12010,3
+13,Textiles,C,13000,2
+13.1,Textile yarn & thread,13,13010,3
+13.2,Woven textiles,13,13020,3
+13.9,Other textiles,13,13030,3
+14,Wearing apparel,C,14000,2
+14.1,"Wearing apparel, except fur apparel",14,14010,3
+14.2,Articles of fur,14,14020,3
+14.3,"Knitted & crocheted hosiery,pullovers&cardigans",14,14030,3
+15,Leather & related products,C,15000,2
+15.1,"Tanned & dressed leather & fur;luggage,bags etc",15,15010,3
+15.2,Footwear,15,15020,3
+16,"Wood and prod of wood,cork,straw & plaiting mat",C,16000,2
+16.1,"Wood, sawn & planed",16,16010,3
+16.2,"Products of wood, cork, straw & plaiting mat",16,16020,3
+17,Paper & paper products,C,17000,2
+17.1,"Pulp, paper & paperboard",17,17010,3
+17.2,Articles of paper & paperboard,17,17020,3
+18,Printing & recording services,C,18000,2
+18.1,Printing type & blocks,18,18010,3
+19,Coke & refined petroleum products,C,19000,2
+19.1,Coke oven products,19,19010,3
+19.2,Refined petroleum products,19,19020,3
+20,Chemicals & chemical products,C,20000,2
+20.1,"Basic chemicals, primary plastics & synthetic rub",20,20010,3
+20.11,Industrial gases,20.1,20111,4
+20.12,Dyes & pigments,20.1,20112,4
+20.13,Other inorganic basic chemicals,20.1,20113,4
+20.14,Other organic basic chemicals,20.1,20114,4
+20.15,Fertilisers & nitrogen compounds,20.1,20115,4
+20.16,Plastics in primary forms,20.1,20116,4
+20.17,Synthetic rubber,20.1,20117,4
+20.2,Pesticides & other agrochemical products,20,20020,3
+20.3,"Paints, varnishes & printing ink",20,20030,3
+20.4,"Cleaning & polishing prep, perfumes & toilet prep",20,20040,3
+20.5,Other chemical products,20,20050,3
+20.6,Man-made fibres,20,20060,3
+21,Pharmaceutical products & preparations,C,21000,2
+21.1,Basic pharmaceutical products,21,21010,3
+21.2,Pharmaceutical preparations,21,21020,3
+22,Rubber & plastic products,C,22000,2
+22.1,Rubber products,22,22010,3
+22.2,Plastic products,22,22020,3
+23,Other non-metallic mineral products,C,23000,2
+23.1,Glass & glass products,23,23010,3
+23.2,Refractory products,23,23020,3
+23.3,"Bricks, tiles etc",23,23030,3
+23.4,Other porcelain & ceramic products,23,23040,3
+23.5,"Cement, lime & plaster",23,23050,3
+23.6,"Articles of concrete, cement & plaster",23,23060,3
+23.7,"Cut, shaped & finished stone",23,23070,3
+23.9,Other non-metallic mineral products,23,23090,3
+24,Basic metals,C,24000,2
+24.1,"Basic iron, steel & ferro-alloys",24,24010,3
+24.2,"Non-cast steel tubes, pipes & hollow profiles",24,24020,3
+24.3,Other products of the first processing of steel,24,24030,3
+24.4,Basic precious & other non-ferrous metals,24,24040,3
+24.5,Cast iron & steel tubes & pipes,24,24050,3
+25,Fabricated metal products,C,25000,2
+25.1,Structural metal products,25,25010,3
+25.2,"Tanks, reservoirs & containers of metal",25,25020,3
+25.3,Steam generators & nuclear reactors,25,25030,3
+25.4,Weapons & ammunition,25,25040,3
+25.7,"Cutlery, tools & general hardware",25,25050,3
+25.9,Other fabricated metal products,25,25060,3
+26,"Computer, electronic & optical products",C,26000,2
+26.1,Electronic components & boards,26,26010,3
+26.2,Computers & peripherals,26,26020,3
+26.3,Communication equipment,26,26030,3
+26.4,Consumer electronics,26,26040,3
+26.5,"Measuring,testing & navigating equip;watches & cl",26,26050,3
+26.6,"Irradiation, electromedical & electrotherapeutic",26,26060,3
+26.7,Optical instruments & photographic equipment,26,26070,3
+26.8,Magnetic & optical media,26,26080,3
+27,Electrical equipment,C,27000,2
+27.1,"Electric motors, & electricity distrib & control",27,27010,3
+27.2,Batteries & accumulators,27,27020,3
+27.3,Wiring & wiring devices,27,27030,3
+27.4,Electric lighting equipment,27,27040,3
+27.5,Domestic appliances,27,27050,3
+27.9,Other electrical equipment,27,27060,3
+28,Machinery & equipment n.e.c.,C,28000,2
+28.1,General-purpose machinery,28,28010,3
+28.2,Other general-purpose machinery,28,28020,3
+28.3,Agricultural & forestry machinery,28,28030,3
+28.4,Metal forming machinery & machine tools,28,28040,3
+28.9,Other special-purpose machinery,28,28050,3
+29,"Motor vehicles, trailers & semi-trailers",C,29000,2
+29.1,Motor vehicles,29,29010,3
+29.2,Bodies for motor vehicles; trailers & semi-trailer,29,29020,3
+29.3,Parts & accessories for motor vehicles,29,29030,3
+30,Other transport equipment,C,30000,2
+30.1,"Ships, boats & floating structures",30,30010,3
+30.2,Railway locomotives & rolling stock,30,30020,3
+30.3,Air & spacecraft & related machinery,30,30030,3
+30.3A,Aircraft engines,30.3,30031,4
+30.3B,Aircraft,30.3,30032,4
+30.3C,Seats for aircraft,30.3,30033,4
+30.4,Military fighting vehicles,30,30040,3
+30.9,Transport equipment n.e.c.,30,30090,3
+31,Furniture,C,31000,2
+32,Other manufactured goods,C,32000,2
+32.1,"Jewellery, bijouterie & related articles",32,32010,3
+32.2,Musical instruments,32,32020,3
+32.3,Sports goods,32,32030,3
+32.4,Games & toys,32,32040,3
+32.5,Medical & dental instruments & supplies,32,32050,3
+32.9,Manufactured goods n.e.c.,32,32060,3
+D,"Electricity, gas, steam & air conditioning",TOT,34999,1
+35,"Electricity, gas, steam & air conditioning",D,35000,2
+35.1,Electricity,35,35010,3
+35.2,Manufactured gas,35,35020,3
+E,"Water supply, sewerage & waste management",TOT,35999,1
+37,Sewerage,E,37000,2
+37.0,Sewage sludge,37,37010,3
+38,Waste,E,38000,2
+38.1,Waste,38,38010,3
+38.2,Waste treatment and disposal services,38,38020,3
+38.3,Secondary raw mat for other non-ferrous base metal,38,38030,3
+J,Information & communication services,TOT,57999,1
+58,Publishing,J,58000,2
+58.1,Printed matter,58,58010,3
+58.2,Packaged computer software,58,58020,3
+59,Films & recordings,J,59000,2
+59.1,Films & videos,59,59010,3
+59.2,Audio recordings & printed music,59,59020,3
+M,"Professional, scientific & technical services",TOT,68999,1
+71,"Architectural,engineering,testing & analysis serv",M,71000,2
+71.1,Architectural plans & drawing,71,71010,3
+74,"Other professional,scientific & technical serv",M,74000,2
+74.2,Exposed photographic film,74,74010,3
+R,"Arts, entertainment & recreation services",TOT,89999,1
+90,"Creative, arts & entertainment services",R,90000,2
+90.0,Paintings & sculptures,90,90010,3
+91,"Library,archive, museum & other cultural services",R,91000,2
+91.0,Antiques & collections,91,91010,3
+S,Other services,TOT,93999,1
+96,Other personal services,S,96000,2
+96.0,Human hair,96,96010,3
